@@ -1,0 +1,8 @@
+{
+  "name": "conference",
+  "app_id": "7a419daf",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
